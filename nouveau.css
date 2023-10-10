@@ -1,0 +1,125 @@
+.section2{
+	text-align: center;
+}
+.section2 .grey{
+	color: grey;
+}
+
+.section2 h4{
+	color: grey;
+}
+strong{
+	color: green;
+}
+
+.card{
+	width: 100%;
+	min-height: 100px;
+	display: flex;
+	gap: 10px;
+	/*
+	flex-direction: column;*/
+}
+.card2{
+	display: flex;
+}
+.card .card2-2{
+	font-weight: 600;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
